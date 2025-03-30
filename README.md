@@ -30,7 +30,7 @@ Steps
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/task-manager.git
+clone https://github.com/amiraliT-88/Task-Manager-based-by-php-MySQL.git
 
 
 2. Navigate to the project folder:
@@ -49,7 +49,7 @@ define('DB_NAME', 'task_manager');
 4. Import the database.sql file (if provided) into your MySQL database.
 
 
-5. Start your web server and access the project via http://localhost/task-manager/pages/index.php.
+5. Start your web server and access the project .
 
 
 
